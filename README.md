@@ -1,5 +1,5 @@
-<h1 align="center">Olá! Meu nome é Guilherme 👋</h1>
+# Olá! Meu nome é Guilherme
 
-<h3 align="center">
-  Profissional de TI | Desenvolvedor Front-End | JavaScript | Java
-</h3>
+
+# Profissional de TI em Formação | Full Stack | QA | Banco de Dados| HTML | CSS | JavaScript | Node | React | SQL
+
