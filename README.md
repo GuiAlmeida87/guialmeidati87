@@ -1,4 +1,4 @@
-# Olá! Meu nome é Guilherme
+# Olá! Meu nome é Guilherme Almeida
 
 # Sobre Mim
 Profissional de TI a mais de 14 anos, analisando e participando de projetos para os usuários
