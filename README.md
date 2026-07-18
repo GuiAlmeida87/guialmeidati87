@@ -1,5 +1,9 @@
 # Olá! Meu nome é Guilherme
 
+# Sobre Mim
 
-# Profissional de TI em Formação | Full Stack | QA | Banco de Dados| HTML | CSS | JavaScript | Node | React | SQL
+# Profissional de TI a mais de 14 anos, analisando e participando de projetos para os usuários
+Trabalho na PRODASIQ Desenvolvimento de Sistemas, uma empresa consolidada no mercado de Software, com mais de 30 anos no mercado.
+
+#Em Formação | Full Stack | QA | Banco de Dados| HTML | CSS | JavaScript | Node | React | SQL
 
