@@ -6,13 +6,7 @@
 Trabalho na PRODASIQ Desenvolvimento de Sistemas, uma empresa consolidada no mercado de Software, com mais de 30 anos no mercado.
 
 # Minhas Skllis
-- Full Stack
-- QA
-- Banco de Dados
-- HTML
--CSS
--JavaScript
--Node
--React
--SQL
+- QA - Banco de Dados
 
+# Em Formação
+- Full Stack - HTML - CSS - JavaScript - Node - React - SQL 
